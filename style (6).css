@@ -1,0 +1,13 @@
+.body{
+    background-color: rgb(241, 253, 133);
+}
+
+.classA{
+    background-color: yellowgreen;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.classC .h2{
+    text-align: left;
+}
